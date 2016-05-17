@@ -1,2 +1,3 @@
 创建并切换分支branch-1,新建文件branch-1,并添加进index,提交到branch-1分支上
 切换回master的分支，把branch-1合并到master上
+切换回branch-1,追加这行内容并提交,再把分支push到远程仓库。
